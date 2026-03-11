@@ -4,13 +4,13 @@
 <br>
 
 <p align="center">
-<img src="img/Imagen.jpeg" width='150'>
+<img src="https://github.com/Gabriela-46/-Gabriela-46/blob/main/Foto.jpeg" width='300'>
 
 <p align="center">
 <img src="https://github.com/Gabriela-46/-Gabriela-46/blob/main/Banner.png" width="800" height="300">
 
 <h2><p>Sobre Mí</p></h2>
-<h3>Soy una persona responsable, creativa y comprometida, con gran interés por aprender y mejorar constantemente. Me adapto con facilidad a distintos entornos y me gusta asumir nuevos retos que me permitan desarrollar mis habilidades personales y técnicas.</h3>
+<h3>Soy estudiante de EVND responsable, creativa y comprometida, con gran interés por aprender y mejorar constantemente. Me adapto con facilidad a distintos entornos y me gusta asumir nuevos retos que me permitan desarrollar mis habilidades personales y técnicas.</h3>
 <p>
 <h3>Me caracterizo por ser organizada, respetuosa y puntual, además de mantener una actitud proactiva y de colaboración para apoyar a los demás. Tengo interés en el área tecnológica y creativa, donde puedo combinar lógica e imaginación en mis proyectos, y busco oportunidades para adquirir experiencia y aportar de manera positiva a un equipo de trabajo.</h3>
 
@@ -36,12 +36,10 @@
   <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60">
   <br>
   <b>Python</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <b>C++</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>HTML</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <b>CSS</b>
 </p>
 
@@ -104,12 +102,12 @@
 
 <h2><p>Habilidades Personales</p></h2>
 <ul><h4>
-<li>✔️ Responsabilidad</li>
-<li>🎨 Creatividad</li>
-<li>🤝 Trabajo en equipo</li>
-<li>📚 Adaptabilidad al aprendizaje de nuevas tecnologías</li>
-<li>📂 Organización en proyectos</li>
-<li>⏰ Puntualidad</li>
+<li>✔️ Responsabilidad.</li>
+<li>🎨 Creatividad.</li>
+<li>🤝 Trabajo en equipo.</li>
+<li>📚 Adaptabilidad al aprendizaje de nuevas tecnologías.</li>
+<li>📂 Organización en proyectos.</li>
+<li>⏰ Puntualidad.</li>
 </ul></h4>
 
 <h2><p>Cursos, Certificados y Reconocimientos</p></h2>
@@ -167,7 +165,7 @@
   
   <hr>
     <h3>📱 App Realidad Aumentada (Plantas Medicinales)</h3>
-    <h4><p>Este proyecto fue realizado entre Enero - Marzo 2026. App desarrollada con Unity para el conocimento sobre plantas medicinales en niños.</p>
+    <h4><p>Este proyecto fue realizado entre Enero - Marzo 2026. App desarrollada con Unity para el conocimiento sobre plantas medicinales en niños.</p>
     <p><b>Tecnologías:</b> Unity, C#</p>
     <a href="">🔗 Ver Proyecto</a><p>
     <a href="">🔗 Ver video de proyecto</a></p></h4>
@@ -178,6 +176,6 @@
 </div>
 
 <h3>Descargar CV</h3>
-<a href="CV.pdf" download>
+<a href="https://github.com/Gabriela-46/-Gabriela-46/blob/main/Cv.pdf" download>
 <img src="https://img.shields.io/badge/Descargar%20CV-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
 </a>
