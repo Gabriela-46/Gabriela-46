@@ -1,15 +1,12 @@
 # -Gabriela-46
-<h1 align="center">¡Hola! Mi nombre es Gabriela Morales Roman</h1>
 <h1 align="center">Perfil profesional en Entornos Virtuales y Negocios Digitales</h1>
 <br>
 
 <p align="center">
-<img src="https://github.com/Gabriela-46/-Gabriela-46/blob/main/Foto.jpeg" width='300'>
+<img src="https://github.com/Gabriela-46/Gabriela-46/blob/main/BannerCv.png" width="800" height="300">
 
-<p align="center">
-<img src="https://github.com/Gabriela-46/-Gabriela-46/blob/main/Banner.png" width="800" height="300">
-
-<h2><p>Sobre Mí</p></h2>
+<p>
+<h2><p>Sobre Mí</p></h2></p>
 <h3>Soy estudiante de EVND responsable, creativa y comprometida, con gran interés por aprender y mejorar constantemente. Me adapto con facilidad a distintos entornos y me gusta asumir nuevos retos que me permitan desarrollar mis habilidades personales y técnicas.</h3>
 <p>
 <h3>Me caracterizo por ser organizada, respetuosa y puntual, además de mantener una actitud proactiva y de colaboración para apoyar a los demás. Tengo interés en el área tecnológica y creativa, donde puedo combinar lógica e imaginación en mis proyectos, y busco oportunidades para adquirir experiencia y aportar de manera positiva a un equipo de trabajo.</h3>
@@ -28,6 +25,7 @@
 <a href="https://www.facebook.com/share/1CPVdxMMTm/">
 <img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
 </a>
+  <p><h4 align="center">Número de Teléfono: 246 188 2418</h2></p>
 </p>
 
 <h2><p>Tecnológias</p></h2>
@@ -125,7 +123,7 @@
     <p><a href="https://drive.google.com/file/d/1qclP3CX9R6YyeQrPUpB5hiSWN-ahnuzm/view?usp=sharing">🔗 Constancia</a>
 
 <h2><p>Idiomas</p></h2>
-<h4>Español - Nativo</h4>
+<h4>Lengua materna - Español</h4>
 
 <h2><p>Proyectos</p></h2>
 <div>
@@ -176,6 +174,6 @@
 </div>
 
 <h3>Descargar CV</h3>
-<a href="https://github.com/Gabriela-46/-Gabriela-46/blob/main/Cv.pdf" download>
+<a href="https://github.com/Gabriela-46/Gabriela-46/blob/main/Cv.pdf" download>
 <img src="https://img.shields.io/badge/Descargar%20CV-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
 </a>
