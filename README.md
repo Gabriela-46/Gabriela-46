@@ -165,8 +165,8 @@
     <h3>📱 App Realidad Aumentada (Plantas Medicinales)</h3>
     <h4><p>Este proyecto fue realizado entre Enero - Marzo 2026. App desarrollada con Unity para el conocimiento sobre plantas medicinales en niños.</p>
     <p><b>Tecnologías:</b> Unity, C#</p>
-    <a href="">🔗 Ver Proyecto</a><p>
-    <a href="">🔗 Ver video de proyecto</a></p></h4>
+    <a href="https://drive.google.com/drive/folders/17UTPJ7BsjDoA_6lD5kX68_WDkAgbs3M3?usp=sharing">🔗 Ver Proyecto</a><p>
+    <a href="https://drive.google.com/drive/folders/17UTPJ7BsjDoA_6lD5kX68_WDkAgbs3M3?usp=sharing">🔗 Ver video de proyecto</a></p></h4>
   
   <hr>
     <p><h3>Otros Proyectos</h3></p>
